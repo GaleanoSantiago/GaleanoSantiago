@@ -46,7 +46,7 @@ Desarrollador Full Stack con más de 4 años de experiencia en programación, es
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 
-## Proyectos destacados
+## 🌟 Proyectos destacados
 - **EcoIngenio – Módulo de Personalización 2.0**  
   Desarrollo de un sistema en Laravel + WooCommerce para EcoIngenio, con previsualización 3D en Blender y Three.js que permite a los clientes personalizar productos en tiempo real.  
   <a href="https://ecoingeniocustomizacion.com" target="_blank">Ver proyecto</a>  
@@ -64,11 +64,12 @@ Desarrollador Full Stack con más de 4 años de experiencia en programación, es
   <a href="https://apollo.com.ar" target="_blank">Ver proyecto</a>  
 
 
-## Portafolio
+## 🌐 Portafolio
 - <a href="https://galeanosantiago.com.ar" target="_blank">galeanosantiago.com.ar</a>  
 
 
-## Contacto
-- **LinkedIn:** <a href="https://www.linkedin.com/in/santiago-galeano511/" target="_blank">santiago-galeano511</a>  
-- **GitHub:** <a href="https://github.com/GaleanoSantiago" target="_blank">GaleanoSantiago</a>  
-- **Email:** galeanosantiago10@gmail.com  
+## 📬 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-galeano511/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GaleanoSantiago)
+[![Email](https://img.shields.io/badge/Email-galeanosantiago10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galeanosantiago10@gmail.com)
+
