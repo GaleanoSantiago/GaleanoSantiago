@@ -7,24 +7,6 @@ Desarrollador Full Stack con más de 4 años de experiencia en programación, es
 
 ---
 
-## Especialización
-- Desarrollo Full Stack (Frontend + Backend)  
-- Integración de Ecommerce con AFIP/ArCA  
-- Animaciones y efectos UI/UX  
-- Modelado 3D y visualización interactiva  
-- Arquitecturas MVC y sistemas escalables  
-
----
-
-## Stack principal
-- **Lenguajes:** PHP, JavaScript, Python  
-- **Frontend:** React, Next.js, HTML, CSS,  Three.js, Fabric.js    
-- **Backend:** Laravel, Node.js, Express, Flask  
-- **Bases de datos:** MySQL, SQL, MongoDB  
-- **Herramientas:** WordPress, WooCommerce, Git, Blender  
-
----
-
 ## 🚀 Especialización
 - 🖥️ Desarrollo Full Stack (Frontend + Backend)  
 - 🛒 Integración de Ecommerce con AFIP/ArCA  
