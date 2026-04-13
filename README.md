@@ -5,8 +5,6 @@ Formosa, Argentina
 Desarrollador Full Stack con más de 4 años de experiencia en programación, especializado en Laravel y WordPress. He liderado proyectos de integración de Ecommerce con AFIP/ArCA, optimizando flujos de facturación y credenciales fiscales en entornos compartidos. Mi enfoque combina el desarrollo backend sólido con interfaces frontend dinámicas, incorporando animaciones y experiencias UI/UX personalizadas. Además, cuento con habilidades en modelado 3D con Blender y visualización interactiva con Three.js, lo que me permite crear soluciones innovadoras que integran tecnología y diseño para empresas y profesionales.
  
 
----
-
 ## 🚀 Especialización
 - 🖥️ Desarrollo Full Stack (Frontend + Backend)  
 - 🛒 Integración de Ecommerce con AFIP/ArCA  
@@ -14,7 +12,6 @@ Desarrollador Full Stack con más de 4 años de experiencia en programación, es
 - 🧩 Modelado 3D y visualización interactiva  
 - 🏗️ Arquitecturas MVC y sistemas escalables  
 
----
 
 ## 🛠️ Stack principal
 
@@ -48,7 +45,6 @@ Desarrollador Full Stack con más de 4 años de experiencia en programación, es
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
----
 
 ## Proyectos destacados
 - **EcoIngenio – Módulo de Personalización 2.0**  
@@ -67,12 +63,10 @@ Desarrollador Full Stack con más de 4 años de experiencia en programación, es
   Página web desarrollada para Apollo, una agencia de desarrollo de software y marketing, con animaciones UI/UX creadas completamente por mí para mejorar la interacción del usuario.  
   <a href="https://apollo.com.ar" target="_blank">Ver proyecto</a>  
 
----
 
 ## Portafolio
 - <a href="https://galeanosantiago.com.ar" target="_blank">galeanosantiago.com.ar</a>  
 
----
 
 ## Contacto
 - **LinkedIn:** <a href="https://www.linkedin.com/in/santiago-galeano511/" target="_blank">santiago-galeano511</a>  
